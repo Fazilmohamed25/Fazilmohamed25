@@ -283,7 +283,7 @@
                             </div>
                             <div class="interests__content">
                                 <i class='bx bx-book interests__icon' ></i>
-                                <span class="interests__name">Playing Chess</span>
+                                <span class="interests__name">PHotographys</span>
                             </div>
                         </div>
                     </section>
